@@ -15,7 +15,8 @@ La herramienta fue revisa, hay un poco de curva de aprendizaje (Nuevo reto)👀�
 Curva de aprendizaje - Pude desarrollar un Listar con GRAPHQL 🎉🎉😎😎
 # SO
 Ubuntu 20
-
+# POSTGRESQL
+Se Agrega los .env para poder usar este proyecto
 # USO
 docker-compose up 
 -----------------------
