@@ -15,3 +15,9 @@ La herramienta fue revisa, hay un poco de curva de aprendizaje (Nuevo reto)👀�
 Curva de aprendizaje - Pude desarrollar un Listar con GRAPHQL 🎉🎉😎😎
 # SO
 Ubuntu 20
+
+# USO
+docker-compose up 
+-----------------------
+Utilizar la url en **localhost:8000/**
+
