@@ -1,1 +1,0 @@
-# Django-PostgreSQL-GraphQL-Docker
