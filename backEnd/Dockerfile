@@ -1,6 +1,6 @@
 # pull official base image
 FROM python:3.9.6-alpine
-
+ 
 # set work directory
 WORKDIR /usr/src/app
 
@@ -21,4 +21,5 @@ RUN pip install -r requirements.txt
 COPY . .
 #Primer Param del local segundo img
 # run entrypoint.sh
+RUN ls
 ENTRYPOINT ["/usr/src/backEnd/entrypoint.sh"]
