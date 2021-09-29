@@ -18,6 +18,8 @@ Ubuntu 20
 # POSTGRESQL
 Se Agrega los .env para poder usar este proyecto
 # USO
-docker-compose up 
+##Linux si no se tiene agregado en un grupo el docker usar sudo
+- docker-compose build || sudo docker-compose build  
+- docker-compose up || sudo docker-compose up 
 -----------------------
 Utilizar la url en **localhost:8000/**
