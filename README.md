@@ -1,4 +1,8 @@
 # Django-PostgreSQL-GraphQL-Docker
+
+# Git
+Existen 2 ramas
+
 # GIT
 # Django - Rest-Framework
 - Mixin - Ok
